@@ -1,6 +1,6 @@
 Hey, My Name Is Jeriel 👋🏽.
 
-I am currently a University Student wanting to learn more!
+I am currently a University Student wanting to collab with others to push my knowledge!
 
 
 - 👋 Hi, I’m @beanguap and I go by Jerry.
