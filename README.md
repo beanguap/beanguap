@@ -5,7 +5,7 @@ As an entry-level developer, I am dedicated to learning and improving my daily s
 
 - 👋 Hi, I’m @beanguap and I go by Jerry.
 - 👀 I’m interested in Frontend Dev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to help expand my skills
 - 📫 How to reach me: martinez.jeriel01@gmail.com
 - ⚡️Fun Fact: I am Puerto Rican 
