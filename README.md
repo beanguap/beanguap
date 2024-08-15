@@ -1,16 +1,12 @@
-Hey, My Name Is Jeriel 👋🏽.
+Hi, I'm Jeriel 👋🏽
 
-As an entry-level developer, I am dedicated to learning and improving my daily skills. I am passionate about coding and love collaborating to build innovative solutions. Let's work together and create something unique!
+I'm an entry-level developer with a strong passion for coding and a dedication to continuously improving my skills. My focus is on frontend development, where I strive to create engaging and efficient user experiences. I'm always eager to collaborate and learn from others, contributing to innovative projects along the way.
 
+    👋 Name: Jeriel (I go by Jeri)
+    👀 Interests: Fullstack Development, Running, Cooking, Producing
+    🌱 Currently Learning: TypeScript
+    💼 Looking to: Expand my skill set and contribute to exciting projects
+    📫 Contact: martinez.jeriel01@gmail.com
+    ⚡️ Fun Fact: Proudly Puerto Rican 🇵🇷
 
-- 👋 Hi, I’m @beanguap and I go by Jerry.
-- 👀 I’m interested in Frontend Dev
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to help expand my skills
-- 📫 How to reach me: martinez.jeriel01@gmail.com
-- ⚡️Fun Fact: I am Puerto Rican 
-
-<!---
-beanguap/beanguap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's connect and work together to build something extraordinary!
