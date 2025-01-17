@@ -7,6 +7,6 @@ I'm an entry-level developer with a strong passion for coding and a dedication t
     🌱 Currently Learning: TypeScript
     💼 Looking to: Expand my skill set and contribute to exciting projects
     📫 Contact: martinez.jeriel01@gmail.com
-    ⚡️ Fun Fact: Proudly Puerto Rican 🇵🇷
+    Proudly Puerto Rican 🇵🇷
 
 Let's connect and work together to build something extraordinary!
