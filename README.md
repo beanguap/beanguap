@@ -10,8 +10,8 @@
 ### 👨🏽‍💻 About Me
 
 - 🧠 I go by **Jeri**, and I'm passionate about writing clean, creative code
-- 🔭 Focused on **Frontend Development** with growing Fullstack skills
-- 🌱 Currently diving deeper into **TypeScript** and performance optimization
+- 🔭 Focused on **Creating, buidling, exploring** with growing skills across Electrical Engineering
+- 🌱 Currently diving deeper into **Rust** and Memory
 - 🏃 Outside of coding, I run, cook, and produce music 🎧
 - 💌 Reach me: [martinez.jeriel01@gmail.com](mailto:martinez.jeriel01@gmail.com)
 
@@ -29,6 +29,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/-Hyprland-000000?style=flat-square&logo=wayland&logoColor=white)
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ---
 
