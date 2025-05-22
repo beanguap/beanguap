@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jeriel 👋🏽</h1>
 
 <p align="center">
-  <b>Fullstack Dev | Frontend-Focused | Arch Ricer | 🇵🇷</b><br>
+  <b>Electrical Engineer | Developer-Focused | Arch Ricer | 🇵🇷</b><br>
   <i>Building beautiful things with JavaScript, React, and terminal rice 🍚</i>
 </p>
 
